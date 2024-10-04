@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Find External & Internal Links",
+    "version": "1.0",
+    "description": "This extension help you to show the links in the body of a page, it says if it's internal or external, excluding the header, footer, aside containers.",
+    "icons": {
+        "128": ""
+    }
+}
